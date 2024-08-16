@@ -2,6 +2,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C5YSXA7)
 
+### My current streak:
+![](https://streak-stats.demolab.com/?user=An-Unnamed-Developer)
+
 <!--
 **An-Unnamed-Developer/An-Unnamed-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
