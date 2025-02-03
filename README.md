@@ -1,10 +1,10 @@
 ### Hi there 👋
 i'm a dumbass :D
 
-Want to get in contact with me? Here's some socials for ya:
-    My Discord server link is here: https://discord.gg/3fQaBj87xP
-    Email still exists? Oh, yeah, it does, here's mine: loganj1403@outlook.com
-    My Discord username is logan.games for more private matters... don't know what would fall under that 🤣
+Want to get in contact with me? Here's some socials for ya:  
+    - My Discord server link is here: https://discord.gg/3fQaBj87xP  
+    - Email still exists? Oh, yeah, it does, here's mine: loganj1403@outlook.com  
+    - My Discord username is logan.games for more private matters... don't know what would fall under that 🤣  
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C5YSXA7)
