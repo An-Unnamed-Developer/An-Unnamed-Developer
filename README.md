@@ -1,3 +1,4 @@
+# On temporary hiatus, some projects may receive small patches until September.
 ### Hi there 👋
 i'm a dumbass :D
 
